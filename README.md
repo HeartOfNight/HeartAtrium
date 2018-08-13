@@ -2,5 +2,5 @@
 
 ## python
 
-from future import me
-me.output("Sharing a hope!")
+1. from future import me
+2. me.output("Sharing a hope!")
